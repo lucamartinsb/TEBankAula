@@ -21,7 +21,7 @@ public class CarrinhoDeCompras {
         double total = 0;
         for (Produto produto: produtos) { // Para cada produto que está na lista produtos: //
             double valor = produto.getValor();
-            total += valor;
+            total = total + valor;
         }
         return total;
     }
