@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CarrinhoDeComprasTeste" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-05-01T22:09:46" hostname="LAPTOP-UI555IUN" time="0.033">
+  <properties/>
+  <testcase name="DeveCalcularTotalComDoisProdutos()" classname="CarrinhoDeComprasTeste" time="0.025"/>
+  <testcase name="DeveCalcularValorTotalQuandoUmItemForCancelado()" classname="CarrinhoDeComprasTeste" time="0.005"/>
+  <testcase name="DeveCalcularValorTotalASerPagoQuandoOCarrinhoEstaVazio()" classname="CarrinhoDeComprasTeste" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
